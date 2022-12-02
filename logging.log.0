@@ -1,0 +1,6 @@
+2022-12-01 14:51:34 [INFO   ] javafxapplication.JavaFXApplication - Start window 
+2022-12-01 14:51:47 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-01 14:51:47 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-01 14:51:47 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-01 14:51:47 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-01 14:51:47 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
